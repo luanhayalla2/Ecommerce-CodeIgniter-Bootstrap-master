@@ -1,0 +1,24 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2026-05-27 19:34:54 --> Severity: Warning --> require(/var/www/html/application/third_party/MX/Router.php): Failed to open stream: No such file or directory /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:34:54 --> Severity: error --> Exception: Failed opening required '/var/www/html/application/third_party/MX/Router.php' (include_path='.:/usr/local/lib/php') /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:35:25 --> Severity: Warning --> require(/var/www/html/application/third_party/MX/Router.php): Failed to open stream: No such file or directory /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:35:25 --> Severity: error --> Exception: Failed opening required '/var/www/html/application/third_party/MX/Router.php' (include_path='.:/usr/local/lib/php') /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:35:30 --> Severity: Warning --> require(/var/www/html/application/third_party/MX/Router.php): Failed to open stream: No such file or directory /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:35:30 --> Severity: error --> Exception: Failed opening required '/var/www/html/application/third_party/MX/Router.php' (include_path='.:/usr/local/lib/php') /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:35:30 --> Severity: Warning --> require(/var/www/html/application/third_party/MX/Router.php): Failed to open stream: No such file or directory /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:35:30 --> Severity: error --> Exception: Failed opening required '/var/www/html/application/third_party/MX/Router.php' (include_path='.:/usr/local/lib/php') /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:35:55 --> Severity: Warning --> require(/var/www/html/application/third_party/MX/Router.php): Failed to open stream: No such file or directory /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:35:55 --> Severity: error --> Exception: Failed opening required '/var/www/html/application/third_party/MX/Router.php' (include_path='.:/usr/local/lib/php') /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:36:25 --> Severity: Warning --> require(/var/www/html/application/third_party/MX/Router.php): Failed to open stream: No such file or directory /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:36:25 --> Severity: error --> Exception: Failed opening required '/var/www/html/application/third_party/MX/Router.php' (include_path='.:/usr/local/lib/php') /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:36:55 --> Severity: Warning --> require(/var/www/html/application/third_party/MX/Router.php): Failed to open stream: No such file or directory /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:36:55 --> Severity: error --> Exception: Failed opening required '/var/www/html/application/third_party/MX/Router.php' (include_path='.:/usr/local/lib/php') /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:37:25 --> Severity: Warning --> require(/var/www/html/application/third_party/MX/Router.php): Failed to open stream: No such file or directory /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:37:25 --> Severity: error --> Exception: Failed opening required '/var/www/html/application/third_party/MX/Router.php' (include_path='.:/usr/local/lib/php') /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:37:55 --> Severity: Warning --> require(/var/www/html/application/third_party/MX/Router.php): Failed to open stream: No such file or directory /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:37:55 --> Severity: error --> Exception: Failed opening required '/var/www/html/application/third_party/MX/Router.php' (include_path='.:/usr/local/lib/php') /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:38:25 --> Severity: Warning --> require(/var/www/html/application/third_party/MX/Router.php): Failed to open stream: No such file or directory /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:38:25 --> Severity: error --> Exception: Failed opening required '/var/www/html/application/third_party/MX/Router.php' (include_path='.:/usr/local/lib/php') /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:38:56 --> Severity: Warning --> require(/var/www/html/application/third_party/MX/Router.php): Failed to open stream: No such file or directory /var/www/html/application/core/MY_Router.php 4
+ERROR - 2026-05-27 19:38:56 --> Severity: error --> Exception: Failed opening required '/var/www/html/application/third_party/MX/Router.php' (include_path='.:/usr/local/lib/php') /var/www/html/application/core/MY_Router.php 4
